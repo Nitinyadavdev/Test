@@ -1,0 +1,15 @@
+{
+  "name": "nitin",
+  "version": "1.0.0",
+  "description": "it's an amazing package",
+  "main": "expressapp.js",
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "author": "Nitin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+ 
